@@ -1,6 +1,27 @@
 ########## 1.WIKI DDR4/DDR5 SDRAM 简陋的Wiki百科####################
 DDR4:https://zh.wikipedia.org/wiki/DDR4_SDRAM
 DDR5:https://zh.wikipedia.org/wiki/DDR5_SDRAM
+常用RAM种类：https://zh.wikipedia.org/wiki/%E9%9A%8F%E6%9C%BA%E5%AD%98%E5%82%A8%E5%99%A8
+
+DDR5协议（需要会员或收费）：https://www.jedec.org/standards-documents/docs/jesd79-5c01
+（免费版）https://pan.baidu.com/s/1BwPT6lgKfwOqjNrkwqSu_Q
+
+内存系列一：快速读懂内存条标签：https://zhuanlan.zhihu.com/p/26255460
+内存系列二：深入理解硬件原理：https://zhuanlan.zhihu.com/p/26327347
+内存系列三：内存初始化浅析：https://zhuanlan.zhihu.com/p/26387396
+SDRAM命令描述与操作：https://blog.csdn.net/hierro_zs/article/details/54581420
+
+RAM speed：
+RAM type	  Speed        Bandwidth
+DDR2	    533-800 MHz	   4.27-6.4 GB/s
+DDR3	    1066-1866 MHz	 8.5-14.9 GB/s
+DDR4	    2133-3200 MHz	 17-25.6 GB/s
+DDR5	    3200-8400 MHz	 38.4-51.2 GB/s
+GDDR6	    3000-3600 MHz	 64-72 GB/s
+HBM	      6400 MHz	     128-410 GB/s
 
 ########## 2.official website ####################
 Micron：https://www.micron.com/products/memory/dram-components/ddr5-sdram
+Samsung DDR4参数：https://semiconductor.samsung.com/cn/dram/ddr/ddr4/
+Samsung DDR5参数：https://semiconductor.samsung.com/cn/dram/ddr/ddr5/
+Hynix 参数：https://roduct.skhynix.com/products/dram/ddr.go
